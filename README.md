@@ -1,2 +1,4 @@
 # SiPaling-KopMa
-Sistem Informasi Retail KOPMA — Aplikasi POS berbasis web (HTML/CSS/JS) dengan model pengembangan RAD. Fitur: Point of Sale, Manajemen Stok, Member, Laporan &amp; Log Aktivitas.
+⚠️ Ini adalah aplikasi demonstrasi untuk keperluan akademik. Tidak direkomendasikan untuk penggunaan produksi karena autentikasi bersifat client-side dan data disimpan di localStorage.
+
+Untuk aplikasi nyata di masa depan, perlu: backend (Node.js/PHP/Python), database sungguhan (MySQL), dan password di-hash (bcrypt).
